@@ -1,0 +1,6 @@
+sphinx_book_theme
+jax
+jaxlib
+blackjax==0.9.6
+sphinx-math-dollar
+myst_nb
