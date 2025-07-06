@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Elham Afzali"
+  avatar : "/assets/images/IMG_1585.JPG"
+  bio    : "Ph.D. Candidate in Statistics, University of Manitoba"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Erbsite"
+      icon: "fas fa-fw fa-globe"
+      url: "https://elhamafzali.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -74,6 +74,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"	
+      url: "https://www.linkedin.com/in/elhamafzali/"
+
 
 footer:
   links:
