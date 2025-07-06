@@ -7,3 +7,21 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Education"
+    url: /education/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Experience"
+    url: /experience/
+  - title: "Presentations"
+    url: /presentation/
+  - title: "Interests"
+    url: /interests/
+  - title: "Awards"
+    url: /awards/
+  - title: "Professional Activities"
+    url: /professional/
+  - title: "CV"
+    url: /cv/
