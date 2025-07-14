@@ -38,6 +38,10 @@ h1 {
   line-height: 5.5rem;
 }
 
+h1.header-font {
+  color: #34495e; 
+}
+
 h2 {
   font-size: 3.5rem;
 }
