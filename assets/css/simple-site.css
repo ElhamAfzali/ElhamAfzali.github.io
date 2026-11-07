@@ -178,3 +178,5 @@ body::before { display:none; }
 .content-main .interest-list { display:flex; flex-wrap:wrap; gap:.6rem; max-width:950px; margin:0 0 2rem; }
 .interest-list li { border:1px solid #d6e1da; border-radius:999px; background:#e5ede7; padding:.48rem .95rem; color:#375b50; font-size:.87rem; font-weight:600; line-height:1.35; }
 .home-page .home-main::before { display:none; }
+/* Keep the About accordion at a comfortable reading width. */
+.info-panels { width:100%; max-width:740px; }
