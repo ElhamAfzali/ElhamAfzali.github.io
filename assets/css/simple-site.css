@@ -180,3 +180,17 @@ body::before { display:none; }
 .home-page .home-main::before { display:none; }
 /* Keep the About accordion at a comfortable reading width. */
 .info-panels { width:100%; max-width:740px; }
+
+/* ---- Learning resources page ---- */
+.res-toc { display:flex; flex-wrap:wrap; gap:.5rem; margin-top:1rem; }
+.res-toc a { font-size:.8rem; padding:.3rem .7rem; border:1px solid #cbd3ce; border-radius:999px; text-decoration:none; color:inherit; }
+.res-toc a:hover { background:#eef2ef; }
+.content-main .res-level { font-size:.75rem; letter-spacing:.14em; text-transform:uppercase; color:#58716a; margin:1.4rem 0 .2rem !important; }
+.res-row h3 a { color:inherit; text-decoration:underline; text-decoration-thickness:1px; text-underline-offset:3px; }
+.res-by { margin:.25rem 0 0; font-size:.85rem; color:#58716a; }
+.res-why { margin:.35rem 0 0; font-size:.92rem; }
+.res-badge { display:inline-block; font-size:.68rem; font-weight:700; letter-spacing:.08em; text-transform:uppercase; padding:.15rem .55rem; border-radius:999px; border:1px solid #cbd3ce; color:#58716a; }
+.res-badge.res-ess { background:#58716a; border-color:#58716a; color:#fff; }
+.res-sec { font-size:.82rem; margin:.5rem 0 0; }
+.res-sec span { font-weight:700; }
+.res-note { font-size:.8rem; color:#58716a; margin-top:2rem; }
